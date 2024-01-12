@@ -10,7 +10,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 - 🌱 I’m currently learning **Linux, ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://gleeful-starship-4e4e70.netlify.app/](https://gleeful-starship-4e4e70.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amitaryan9906.github.io/)
 
 - 💬 Ask me about **" Java, JavaScript, MySQL, Manual Testing, Selenium, Cypress, Appium, Postman, RestAssured ",JMeter**
 
