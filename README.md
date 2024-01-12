@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitaryan9906&label=Profile%20views&color=0e75b6&style=flat" alt="amitaryan9906" /> </p>
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Linux, ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://gleeful-starship-4e4e70.netlify.app/](https://gleeful-starship-4e4e70.netlify.app/)
 
